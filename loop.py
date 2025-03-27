@@ -1,4 +1,4 @@
-# traversing for loop in list 
+# using for loop in list 
 numbers = [1,2,3,4,5]
 ans = 0
 
