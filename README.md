@@ -21,6 +21,7 @@ Through this journey, I’ve built a solid foundation in Python and explored key
 ### 📋 Data Structures
 - Lists
 - Tuples
+- Set
 - Dictionaries
 - Nested data structures
 - List & Dictionary comprehensions
@@ -31,6 +32,7 @@ Through this journey, I’ve built a solid foundation in Python and explored key
 - Parameters and return values
 - Default arguments and keyword arguments
 - Variable scope
+- Lambda function
 
 ### 🧱 Object-Oriented Programming (OOP)
 - Classes and Objects
